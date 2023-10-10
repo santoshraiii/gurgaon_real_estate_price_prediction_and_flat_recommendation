@@ -16,7 +16,7 @@ Key Features:
 📊 Data Insights: Explore in-depth market insights and trends, empowering you with the knowledge to make the right decisions.
 ![Screenshot 2023-10-10 132616](https://github.com/santoshraiii/gurgaon_real_estate_price_prediction_and_flat_recommendation/assets/128511075/4ae562f8-a8cf-4cb6-a8f1-a9f702ad1e46)
 
-![Screenshot 2023-10-10 132616](https://github.com/santoshraiii/gurgaon_real_estate_price_prediction_and_flat_recommendation/assets/128511075/b8992cad-3e88-47cb-9452-27c16297b9ef)
+![Screenshot 2023-10-10 132650](https://github.com/santoshraiii/gurgaon_real_estate_price_prediction_and_flat_recommendation/assets/128511075/effebe16-269c-40d1-8dff-719ee2bfbe1a)
 
 
 🌐 User-Friendly: Our user-friendly interface makes it easy for both beginners and experts to access valuable information.
